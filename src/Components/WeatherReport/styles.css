@@ -1,0 +1,22 @@
+
+.report-container{
+    /* width: 650px;
+    height: auto;
+    background: yellow;
+    border: solid; */
+}
+
+
+
+.condition{
+    display: flex;
+    justify-content: center;
+}
+
+.condition-card{
+
+    display: flex;
+    justify-content: center;
+
+}
+
